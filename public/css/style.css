@@ -1,0 +1,7 @@
+.imgFilter{
+    filter: brightness(0.50 );
+}
+
+html{
+    scroll-behavior: smooth;
+}
